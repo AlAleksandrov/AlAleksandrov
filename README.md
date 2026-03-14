@@ -122,16 +122,16 @@ A **production-ready Django 6.0 web application** for photography & videography 
 
 | 🗓️ Date | 📚 Course | 🏛️ Institution |
 |:---:|:---|:---:|
-| Jan 2026 | **Django Basics** | SoftUni |
-| Oct 2025 | **Python ORM** | SoftUni |
-| Sep 2025 | **PostgreSQL** | SoftUni |
-| Jun 2025 | **Python OOP** | SoftUni |
-| May 2025 | **Python Advanced** | SoftUni |
-| Jan 2025 | **Python Fundamentals** | SoftUni |
-| Oct 2024 | **Python Basics** | SoftUni |
-| Feb 2025 | **AI Adoption** | SoftUni AI |
-| Nov 2024 | **Prompt Engineering & AI Tools** | SoftUni AI |
-| Oct 2024 | **AI Basics** | SoftUni AI |
+| Jan 2026 | [**Django Basics**](https://softuni.bg/certificates/details/258018/40c64d6c/) | SoftUni |
+| Oct 2025 | [**Python ORM**](https://softuni.bg/certificates/details/253369/1b7fa2fa) | SoftUni |
+| Sep 2025 | [**PostgreSQL**](https://softuni.bg/certificates/details/251032/cecb5a8d) | SoftUni |
+| Jun 2025 | [**Python OOP**](https://softuni.bg/certificates/details/248232/7bb6946b) | SoftUni |
+| May 2025 | [**Python Advanced**](https://softuni.bg/certificates/details/245281/60687887) | SoftUni |
+| Jan 2025 | [**Python Fundamentals**](https://softuni.bg/certificates/details/240189/6da43595) | SoftUni |
+| Oct 2024 | [**Python Basics**](https://softuni.bg/certificates/details/230199/37e69563) | SoftUni |
+| Feb 2025 | [**AI Adoption**](https://ai.softuni.bg/Certificates/Details/4302/5611f431) | SoftUni AI |
+| Nov 2024 | [**Prompt Engineering & AI Tools**](    https://ai.softuni.bg/Certificates/Details/2309/73dd082e) | SoftUni AI |
+| Oct 2024 | [**AI Basics**](https://ai.softuni.bg/Certificates/Details/260/243d13de) | SoftUni AI |
 
 </div>
 
@@ -190,3 +190,4 @@ A **production-ready Django 6.0 web application** for photography & videography 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
+
