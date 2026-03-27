@@ -151,6 +151,7 @@ A **production-ready Django 6.0 web application** for photography & videography 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlAleksandrov&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&row=1&column=6)
 
+
 </div>
 
 ---
