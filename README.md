@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlAleksandrov&style=for-the-badge&color=1a6b3c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AlAleksandrov&style=for-the-badge&color=1a6b3c&label=PROFILE+VIEWS) 
 
 
 </div>
