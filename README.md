@@ -123,16 +123,16 @@ A **production-ready Django 6.0 web application** for photography & videography 
 ---
 
 ### 📊 &nbsp; GitHub Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+
+</div>
 
 </div>
 
