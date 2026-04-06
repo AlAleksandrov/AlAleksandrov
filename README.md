@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=220&section=header&text=Aleksandar%20Aleksandrov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=From%20Automation%20Engineering%20to%20Software%20Development&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
