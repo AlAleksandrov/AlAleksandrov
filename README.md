@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/alexaleksandrov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/AlAleksandrov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:algal.bg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/AlAleksandrov/lensmaster_pro"><img src="https://img.shields.io/badge/🔭_Featured_Project-LensMaster_Pro-1a6b3c?style=for-the-badge" alt="Featured Project"/></a>
+<a href="https://github.com/AlAleksandrov/lensmaster_pro_2.0"><img src="https://img.shields.io/badge/🔭_Featured_Project-LensMaster_Pro-1a6b3c?style=for-the-badge" alt="Featured Project"/></a>
 
 <br/>
 
@@ -72,11 +72,11 @@ I’m currently looking for:
 
 ### 🚀 &nbsp; Featured Project
 
-<a href="https://github.com/AlAleksandrov/lensmaster_pro">
+<a href="https://github.com/AlAleksandrov/lensmaster_pro_2.0">
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=lensmaster_pro&theme=github_dark&hide_border=true&border_color=1a6b3c&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
 </a>
 
-#### 📷 [LensMaster Pro](https://github.com/AlAleksandrov/lensmaster_pro)
+#### 📷 [LensMaster Pro](https://github.com/AlAleksandrov/lensmaster_pro_2.0)
 
 A **production-ready Django 6.0 web application** for photography & videography studios.
 
