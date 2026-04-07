@@ -145,27 +145,6 @@ A **production-ready Django 6 web application** for photography and videography 
 
 ---
 
-### 🗂️ Other Repositories
-
-<div align="center">
-
-<a href="https://github.com/AlAleksandrov/django_advanced">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=django_advanced&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
-</a>
-<a href="https://github.com/AlAleksandrov/django_basics">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=django_basics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
-</a>
-<a href="https://github.com/AlAleksandrov/python_orm_django_projects">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=python_orm_django_projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
-</a>
-<a href="https://github.com/AlAleksandrov/python_all_projects">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=python_all_projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
-</a>
-
-</div>
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
