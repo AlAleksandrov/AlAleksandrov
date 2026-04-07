@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=220&section=header&text=Aleksandar%20Aleksandrov&fontSize=42&fontColor=ffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20Developer%20%7C%20Production-Ready%20Web%20Applications&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=420&section=header&text=Aleksandar%20Aleksandrov&fontSize=42&fontColor=ffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20Developer%20%7C%20Production-Ready%20Web%20Applications&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Python+%7C+Django+%7C+PostgreSQL+%7C+REST+APIs;Engineer+turned+Software+Developer;Clean+Code+%7C+Reliable+Systems+%7C+Real-World+Thinking)](https://git.io/typing-svg)
 
