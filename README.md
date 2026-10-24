@@ -60,7 +60,7 @@ I’m currently open to:
 
 ### 🚀 Featured Project
 
-#### 📷 [LensMaster Pro 2.0](https://github.com/AlAleksandrov/lensmaster_pro_2.0)
+#### 📷 [LensMaster Pro](https://github.com/AlAleksandrov/lensmaster_pro) -> 📷 [LensMaster Pro 2.0](https://github.com/AlAleksandrov/lensmaster_pro_2.0) -> 📷 [LensMaster Pro 3.0](https://github.com/AlAleksandrov/lensmaster_pro_3.0)
 
 A **production-ready Django 6 web application** for photography and videography studios, built with a strong backend focus and real-world business logic.
 
@@ -130,6 +130,9 @@ A **production-ready Django 6 web application** for photography and videography 
 
 | 🗓️ Date | 📚 Course | 🏛️ Institution |
 |:---:|:---|:---:|
+| Sep 2026 | [**Software Engineering and DevOps **](https://softuni.bg/certificates/details/) | SoftUni |
+| Jun 2026 | [**JS Front-End**](https://softuni.bg/certificates/details/264662/e0e8b472) | SoftUni |
+| May 2026 | [**HTML & CSS**](https://softuni.bg/certificates/details/262745/28b76d0f) | SoftUni |
 | Feb 2026 | [**Django Advanced**](https://softuni.bg/certificates/details/259880/657e561c) | SoftUni |
 | Jan 2026 | [**Django Basics**](https://softuni.bg/certificates/details/258018/40c64d6c/) | SoftUni |
 | Oct 2025 | [**Python ORM**](https://softuni.bg/certificates/details/253369/1b7fa2fa) | SoftUni |
