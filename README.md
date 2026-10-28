@@ -130,7 +130,7 @@ A **production-ready Django 6 web application** for photography and videography 
 
 | 🗓️ Date | 📚 Course | 🏛️ Institution |
 |:---:|:---|:---:|
-| Sep 2026 | [**Software Engineering and DevOps **](https://softuni.bg/certificates/details/) | SoftUni |
+| Sep 2026 | [**Software Engineering and DevOps**](https://softuni.bg/certificates/details/266625/6a828a2c) | SoftUni |
 | Jun 2026 | [**JS Front-End**](https://softuni.bg/certificates/details/264662/e0e8b472) | SoftUni |
 | May 2026 | [**HTML & CSS**](https://softuni.bg/certificates/details/262745/28b76d0f) | SoftUni |
 | Feb 2026 | [**Django Advanced**](https://softuni.bg/certificates/details/259880/657e561c) | SoftUni |
