@@ -60,8 +60,8 @@ I’m currently open to:
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/AlAleksandrov/lensmaster_pro_3.0">
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=AlAleksandrov&repo=lensmaster_pro_3.0&theme=github_dark&hide_border=true&border_color=1a6b3c&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />
+<a href="https://github.com/AlAleksandrov/lensmaster_pro_3.0">  
+<img align="right" width="380" src="https://github-readme-stats-inky-two-42.vercel.app/api/pin/?username=AlAleksandrov&repo=lensmaster_pro_3.0&theme=github_dark&hide_border=true&border_color=1a6b3c&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=8b949e" />  
 </a>
 
 #### 📷 [LensMaster Pro](https://github.com/AlAleksandrov/lensmaster_pro) -> 📷 [LensMaster Pro 2.0](https://github.com/AlAleksandrov/lensmaster_pro_2.0) -> 📷 [LensMaster Pro 3.0](https://github.com/AlAleksandrov/lensmaster_pro_3.0) 
