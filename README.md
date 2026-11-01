@@ -1,1 +1,192 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPTA6MGQxMTE3LDUwOjFhNmIzYywxMDA6NThhNmZmJmhlaWdodD0yMjAmc2VjdGlvbj1oZWFkZXImdGV4dD1BbGVrc2FuZGFyJTIwQWxla3NhbmRyb3YmZm9udFNpemU9NDImZm9udENvbG9yPWZmZmYmYW5pbWF0aW9uPWZhZGVJbiZmb250QWxpZ25ZPTM1JmRlc2M9UHl0aG9uJTIwJTdDJTIwRGphbmdvJTIwRGV2ZWxvcGVyJTIwJTdDJTIwUHJvZHVjdGlvbi1SZWFkeSUyMFdlYiUyMEFwcGxpY2F0aW9ucyZkZXNjU2l6ZT0xNiZkZXNjQWxpZ25ZPTU1JmRlc2NDb2xvcj04Yjk0OWUiIHdpZHRoPSIxMDAlIi8+CgpbIVtUeXBpbmcgU1ZHXShodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9RmlyYStDb2RlJndlaWdodD02MDAmc2l6ZT0yNCZkdXJhdGlvbj0zMDAwJnBhdXNlPTEwMDAmY29sb3I9NThBNkZGJmNlbnRlcj10cnVlJnZDZW50ZXI9dHJ1ZSZtdWx0aWxpbmU9dHJ1ZSZyZXBlYXQ9dHJ1ZSZ3aWR0aD05MDAmaGVpZ2h0PTE0MCZsaW5lcz1QeXRob24rJTdDK0RqYW5nbyslN0MrUG9zdGdyZVNRTCslN0MrUkVTVCtBUElzO0VuZ2luZWVyK3R1cm5lZCtTb2Z0d2FyZStEZXZlbG9wZXI7Q2xlYW4rQ29kZSslN0MrUmVsaWFibGUrU3lzdGVtcyslN0MrUmVhbC1Xb3JsZCtUaGlua2luZyldKGh0dHBzOi8vZ2l0LmlvL3R5cGluZy1zdmcpCgo8YSBocmVmPSJodHRwczovL2xpbmtlZGluLmNvbS9pbi9hbGV4YWxla3NhbmRyb3YiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbmtlZEluLTBBNjZDMj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkxpbmtlZEluIi8+PC9hPgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vQWxBbGVrc2FuZHJvdiI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLTE4MTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJHaXRIdWIiLz48L2E+CjxhIGhyZWY9Im1haWx0bzphbGdhbC5iZ0BnbWFpbC5jb20iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLUVBNDMzNT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z21haWwmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkVtYWlsIi8+PC9hPgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vQWxBbGVrc2FuZHJvdi9sZW5zbWFzdGVyX3Byb18zLjAiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0ZlYXR1cmVkX1Byb2plY3QtTGVuc01hc3Rlcl9Qcm8tMWE2YjNjP3N0eWxlPWZvci10aGUtYmFkZ2UiIGFsdD0iRmVhdHVyZWQgUHJvamVjdCIvPjwvYT4KCjxici8+CgohW1Byb2ZpbGUgVmlld3NdKGh0dHBzOi8va29tYXJldi5jb20vZ2hwdmMvP3VzZXJuYW1lPUFsQWxla3NhbmRyb3Ymc3R5bGU9Zm9yLXRoZS1iYWRnZSZjb2xvcj0xYTZiM2MmbGFiZWw9UFJPRklMRStWSUVXUykKCjwvZGl2PgoKLS0tCgojIyMg8J+RiyBBYm91dCBNZQoKSeKAmW0gYSAqKlB5dGhvbiAvIERqYW5nbyBEZXZlbG9wZXIqKiB3aXRoIGEgbm9uLXN0YW5kYXJkIGJ1dCBwb3dlcmZ1bCBiYWNrZ3JvdW5kOiAgCioqMzAgeWVhcnMgb2YgZW5naW5lZXJpbmcgZGlzY2lwbGluZSoqIGluIGF1dG9tYXRpb24sIGluZHVzdHJpYWwgc3lzdGVtcywgYW5kIFNRTC1kcml2ZW4gd29ya2Zsb3dzIOKAlCBub3cgYXBwbGllZCB0byBtb2Rlcm4gc29mdHdhcmUgZGV2ZWxvcG1lbnQuCgpJIGJ1aWxkIGFwcGxpY2F0aW9ucyB3aXRoIGEgc3Ryb25nIGZvY3VzIG9uOgoKLSBjbGVhbiBhbmQgbWFpbnRhaW5hYmxlIGJhY2tlbmQgY29kZSAgCi0gc3RydWN0dXJlZCBhcmNoaXRlY3R1cmUgYW5kIHNlcGFyYXRpb24gb2YgY29uY2VybnMgIAotIHJvbGUtYmFzZWQgcGVybWlzc2lvbnMgYW5kIGJ1c2luZXNzIHJ1bGVzICAKLSB0ZXN0aW5nLCByZWxpYWJpbGl0eSwgYW5kIHByb2R1Y3Rpb24gcmVhZGluZXNzICAKLSBwcmFjdGljYWwgc29sdXRpb25zIGZvciByZWFsLXdvcmxkIHVzZSBjYXNlcyAgCgpNeSB0cmFuc2l0aW9uIGludG8gc29mdHdhcmUgZGV2ZWxvcG1lbnQgaXMgYmFja2VkIG5vdCBvbmx5IGJ5IHN0dWR5LCBidXQgYnkgKipyZWFsIHByb2plY3Qgd29yaywgZW5naW5lZXJpbmcgbWF0dXJpdHksIGFuZCBjb25zaXN0ZW50IGV4ZWN1dGlvbioqLgoKLS0tCgojIyMg8J+SvCBPcGVuIHRvIFdvcmsKCknigJltIGN1cnJlbnRseSBvcGVuIHRvOgoKLSAqKlB5dGhvbiBEZXZlbG9wZXIqKgotICoqRGphbmdvIEJhY2tlbmQgRGV2ZWxvcGVyKioKLSAqKkJhY2tlbmQtZm9jdXNlZCBGdWxsLVN0YWNrIERldmVsb3BlcioqCi0gKipKdW5pb3IgLyBNaWQtbGV2ZWwgU29mdHdhcmUgRW5naW5lZXIqKgotICoqUmVtb3RlIC8gQ29udHJhY3QgLyBGcmVlbGFuY2UgLyBCdWxnYXJpYS1iYXNlZCBvcHBvcnR1bml0aWVzKioKCvCfk6wgUmVhY2ggbWUgdmlhIFtMaW5rZWRJbl0oaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vYWxleGFsZWtzYW5kcm92KSBvciBbRW1haWxdKG1haWx0bzphbGdhbC5iZ0BnbWFpbC5jb20pCgotLS0KCiMjIyDinIUgV2hhdCBJIEJyaW5nCgotICoqRW5naW5lZXJpbmcgbWluZHNldCoqIOKAlCBzdHJ1Y3R1cmVkIHRoaW5raW5nLCBkaXNjaXBsaW5lLCBhbmQgcmVzcG9uc2liaWxpdHkKLSAqKkJhY2tlbmQgZm9jdXMqKiDigJQgUHl0aG9uLCBEamFuZ28sIFBvc3RncmVTUUwsIE9STSwgYnVzaW5lc3MgbG9naWMsIHZhbGlkYXRpb24KLSAqKlByb2R1Y3Rpb24gdGhpbmtpbmcqKiDigJQgcGVybWlzc2lvbnMsIGVycm9yIGhhbmRsaW5nLCBhc3luYyB0YXNrcywgZGVwbG95bWVudCwgbWFpbnRhaW5hYmlsaXR5Ci0gKipBSS1hdWdtZW50ZWQgd29ya2Zsb3cqKiDigJQgdXNpbmcgbW9kZXJuIEFJIHRvb2xzIHRvIHNwZWVkIHVwIGRldmVsb3BtZW50LCByZWZhY3RvcmluZywgYW5kIHRlc3Rpbmcgd2l0aG91dCBjb21wcm9taXNpbmcgY29kZSBxdWFsaXR5Ci0gKipGYXN0IGxlYXJuaW5nIGN1cnZlKiog4oCUIHN0cm9uZyB1cHNraWxsaW5nIHBhdGggd2l0aCBjb25zaXN0ZW50IHByb2plY3QgZGVsaXZlcnkKCi0tLQoKIyMjIPCfmoAgRmVhdHVyZWQgUHJvamVjdAoKIyMjIyDwn5O3IFtMZW5zTWFzdGVyIFByb10oaHR0cHM6Ly9naXRodWIuY29tL0FsQWxla3NhbmRyb3YvbGVuc21hc3Rlcl9wcm8pIC0+IPCfk7cgW0xlbnNNYXN0ZXIgUHJvIDIuMF0oaHR0cHM6Ly9naXRodWIuY29tL0FsQWxla3NhbmRyb3YvbGVuc21hc3Rlcl9wcm9fMi4wKSAtPiDwn5O3IFtMZW5zTWFzdGVyIFBybyAzLjBdKGh0dHBzOi8vZ2l0aHViLmNvbS9BbEFsZWtzYW5kcm92L2xlbnNtYXN0ZXJfcHJvXzMuMCkKCkEgKipwcm9kdWN0aW9uLXJlYWR5IERqYW5nbyA2IHdlYiBhcHBsaWNhdGlvbioqIGZvciBwaG90b2dyYXBoeSBhbmQgdmlkZW9ncmFwaHkgc3R1ZGlvcywgYnVpbHQgd2l0aCBhIHN0cm9uZyBiYWNrZW5kIGZvY3VzIGFuZCByZWFsLXdvcmxkIGJ1c2luZXNzIGxvZ2ljLgoKKipIaWdobGlnaHRzOioqCi0g8J+Pl++4jyBNdWx0aS1hcHAgRGphbmdvIGFyY2hpdGVjdHVyZTogYGFjY291bnRzYCwgYGJvb2tpbmdzYCwgYHByb2R1Y3Rpb25zYCwgYGludmVudG9yeWAsIGBjb21tb25gCi0g8J+UkCBSb2xlLWJhc2VkIGFjY2VzcyBjb250cm9sIHdpdGggY3VzdG9tIHBlcm1pc3Npb24gbWl4aW5zCi0g8J+UhCBGdWxsIENSVUQgd29ya2Zsb3dzIHdpdGggdmFsaWRhdGlvbiBhbmQgcHJvdGVjdGVkIHdyaXRlIG9wZXJhdGlvbnMKLSDwn5eE77iPIFBvc3RncmVTUUwgKyBlbnZpcm9ubWVudC1iYXNlZCBjb25maWd1cmF0aW9uCi0g8J+UjCBSRVNUIEFQSSB3aXRoIERqYW5nbyBSRVNUIEZyYW1ld29yawotIOKYge+4jyBDbG91ZGluYXJ5IG1lZGlhIHN0b3JhZ2UgZm9yIHByb2R1Y3Rpb24gZW52aXJvbm1lbnRzCi0g4pqZ77iPIEFzeW5jIGJhY2tncm91bmQgcHJvY2Vzc2luZyB3aXRoICoqRGphbmdvIFEyKiogYW5kICoqQ2VsZXJ5ICsgUmVkaXMqKgotIPCfp6ogKiozMCsgYXV0b21hdGVkIHRlc3RzKiogY292ZXJpbmcgbW9kZWxzLCBmb3Jtcywgdmlld3MsIHBlcm1pc3Npb25zLCBhbmQga2V5IHVzZXIgZmxvd3MKLSDwn4yNIERlcGxveWVkIG9uICoqUmVuZGVyKiogYW5kICoqQXp1cmUqKgotIPCfk4ogU3RhdGlzdGljcyBkYXNoYm9hcmQsIGZhdm9yaXRlcyBzeXN0ZW0sIGJvb2tpbmcgd29ya2Zsb3dzLCBhbmQgaW52ZW50b3J5IG1hbmFnZW1lbnQKCioqV2hhdCB0aGlzIHByb2plY3QgZGVtb25zdHJhdGVzOioqCi0gY2xlYW4gRGphbmdvIHN0cnVjdHVyZQotIGJhY2tlbmQgYXJjaGl0ZWN0dXJlIGFuZCBtYWludGFpbmFiaWxpdHkKLSBzZWN1cmUgcGVybWlzc2lvbnMgYW5kIGFjY2VzcyBjb250cm9sCi0gcHJhY3RpY2FsIGFzeW5jIHByb2Nlc3NpbmcKLSB0ZXN0aW5nIG1pbmRzZXQKLSBwcm9kdWN0aW9uIGRlcGxveW1lbnQgYXdhcmVuZXNzCgo8YnIgY2xlYXI9InJpZ2h0Ii8+CgotLS0KCiMjIyDwn5ug77iPIFRlY2ggU3RhY2sKCjxkaXYgYWxpZ249ImNlbnRlciI+CgojIyMjIEJhY2tlbmQgJiBXZWIKIVtQeXRob25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM3NzZBQj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj1mZmRkNTQpCiFbRGphbmdvXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RqYW5nby0wOTJFMjA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRqYW5nbyZsb2dvQ29sb3I9d2hpdGUpCiFbRGphbmdvIFJFU1QgRnJhbWV3b3JrXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RSRi1BMzAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRqYW5nbyZsb2dvQ29sb3I9d2hpdGUpCiFbUG9zdGdyZVNRTF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Qb3N0Z3JlU1FMLTQxNjlFMT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cG9zdGdyZXNxbCZsb2dvQ29sb3I9d2hpdGUpCiFbSFRNTDVdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSFRNTDUtRTM0RjI2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1odG1sNSZsb2dvQ29sb3I9d2hpdGUpCiFbQ1NTM10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DU1MzLTE1NzJCNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Y3NzMyZsb2dvQ29sb3I9d2hpdGUpCiFbQm9vdHN0cmFwXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0Jvb3RzdHJhcC03OTUyQjM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWJvb3RzdHJhcCZsb2dvQ29sb3I9d2hpdGUpCgojIyMjIFRvb2xzICYgUGxhdGZvcm1zCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdC1GMDUwMzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCiFbR2l0SHViXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUpCiFbVlMgQ29kZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9WU19Db2RlLTAwN0FDQz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dmlzdWFsc3R1ZGlvY29kZSZsb2dvQ29sb3I9d2hpdGUpCiFbUHlDaGFybV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeUNoYXJtLTAwMDAwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cHljaGFybSZsb2dvQ29sb3I9d2hpdGUpCiFbUmVuZGVyXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlbmRlci00NkUzQjc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXJlbmRlciZsb2dvQ29sb3I9YmxhY2spCiFbTWljcm9zb2Z0IEF6dXJlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0F6dXJlLTAwNzhEND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bWljcm9zb2Z0YXp1cmUmbG9nb0NvbG9yPXdoaXRlKQoKIyMjIyBBc3luYywgQ2xvdWQgJiBXb3JrZmxvdwohW0NlbGVyeV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DZWxlcnktMzc4MTRBP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1jZWxlcnkmbG9nb0NvbG9yPXdoaXRlKQohW1JlZGlzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlZGlzLUQ5MkMyMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cmVkaXMmbG9nb0NvbG9yPXdoaXRlKQohW0Nsb3VkaW5hcnldKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQ2xvdWRpbmFyeS0zNDQ4QzU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWNsb3VkaW5hcnkmbG9nb0NvbG9yPXdoaXRlKQohW1doaXRlTm9pc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvV2hpdGVOb2lzZS0yMjIyMjI/c3R5bGU9Zm9yLXRoZS1iYWRnZSkKCiMjIyMgQUkgJiBFbmdpbmVlcmluZyBCYWNrZ3JvdW5kCiFbR2VuZXJhdGl2ZSBBSV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HZW5lcmF0aXZlX0FJLTQxMjk5MT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289b3BlbmFpJmxvZ29Db2xvcj13aGl0ZSkKIVtQcm9tcHQgRW5naW5lZXJpbmddKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHJvbXB0X0VuZ2luZWVyaW5nLTAwQTY3RT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289b3BlbmFpJmxvZ29Db2xvcj13aGl0ZSkKIVtTaWVtZW5zIFBMQ10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TaWVtZW5zX1BMQy0wMDk5OTk/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXNpZW1lbnMmbG9nb0NvbG9yPXdoaXRlKQoKPC9kaXY+CgotLS0KCiMjIyDwn5OcIENlcnRpZmljYXRpb25zCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKfCDwn5eT77iPIERhdGUgfCDwn5OaIENvdXJzZSB8IPCfj5vvuI8gSW5zdGl0dXRpb24gfAp8Oi0tLTp8Oi0tLXw6LS0tOnwKfCBTZXAgMjAyNiB8IFsqKlNvZnR3YXJlIEVuZ2luZWVyaW5nIGFuZCBEZXZPcHMqKl0oaHR0cHM6Ly9zb2Z0dW5pLmJnL2NlcnRpZmljYXRlcy9kZXRhaWxzLzI2NjYyNS82YTgyOGEyYykgfCBTb2Z0VW5pIHwKfCBKdW4gMjAyNiB8IFsqKkpTIEZyb250LUVuZCoqXShodHRwczovL3NvZnR1bmkuYmcvY2VydGlmaWNhdGVzL2RldGFpbHMvMjY0NjYyL2UwZThiNDcyKSB8IFNvZnRVbmkgfAp8IE1heSAyMDI2IHwgWyoqSFRNTCAmIENTUyoqXShodHRwczovL3NvZnR1bmkuYmcvY2VydGlmaWNhdGVzL2RldGFpbHMvMjYyNzQ1LzI4Yjc2ZDBmKSB8IFNvZnRVbmkgfAp8IEZlYiAyMDI2IHwgWyoqRGphbmdvIEFkdmFuY2VkKipdKGh0dHBzOi8vc29mdHVuaS5iZy9jZXJ0aWZpY2F0ZXMvZGV0YWlscy8yNTk4ODAvNjU3ZTU2MWMpIHwgU29mdFVuaSB8CnwgSmFuIDIwMjYgfCBbKipEamFuZ28gQmFzaWNzKipdKGh0dHBzOi8vc29mdHVuaS5iZy9jZXJ0aWZpY2F0ZXMvZGV0YWlscy8yNTgwMTgvNDBjNjRkNmMvKSB8IFNvZnRVbmkgfAp8IE9jdCAyMDI1IHwgWyoqUHl0aG9uIE9STSoqXShodHRwczovL3NvZnR1bmkuYmcvY2VydGlmaWNhdGVzL2RldGFpbHMvMjUzMzY5LzFiN2ZhMmZhKSB8IFNvZnRVbmkgfAp8IFNlcCAyMDI1IHwgWyoqUG9zdGdyZVNRTCoqXShodHRwczovL3NvZnR1bmkuYmcvY2VydGlmaWNhdGVzL2RldGFpbHMvMjUxMDMyL2NlY2I1YThkKSB8IFNvZnRVbmkgfAp8IEp1biAyMDI1IHwgWyoqUHl0aG9uIE9PUCoqXShodHRwczovL3NvZnR1bmkuYmcvY2VydGlmaWNhdGVzL2RldGFpbHMvMjQ4MjMyLzdiYjY5NDZiKSB8IFNvZnRVbmkgfAp8IE1heSAyMDI1IHwgWyoqUHl0aG9uIEFkdmFuY2VkKipdKGh0dHBzOi8vc29mdHVuaS5iZy9jZXJ0aWZpY2F0ZXMvZGV0YWlscy8yNDUyODEvNjA2ODc4ODcpIHwgU29mdFVuaSB8CnwgSmFuIDIwMjUgfCBbKipQeXRob24gRnVuZGFtZW50YWxzKipdKGh0dHBzOi8vc29mdHVuaS5iZy9jZXJ0aWZpY2F0ZXMvZGV0YWlscy8yNDAxODkvNmRhNDM1OTUpIHwgU29mdFVuaSB8CnwgT2N0IDIwMjQgfCBbKipQeXRob24gQmFzaWNzKipdKGh0dHBzOi8vc29mdHVuaS5iZy9jZXJ0aWZpY2F0ZXMvZGV0YWlscy8yMzAxOTkvMzdlNjk1NjMpIHwgU29mdFVuaSB8CnwgRmViIDIwMjUgfCBbKipBSSBBZG9wdGlvbioqXShodHRwczovL2FpLnNvZnR1bmkuYmcvQ2VydGlmaWNhdGVzL0RldGFpbHMvNDMwMi81NjExZjQzMSkgfCBTb2Z0VW5pIEFJIHwKfCBOb3YgMjAyNCB8IFsqKlByb21wdCBFbmdpbmVlcmluZyAmIEFJIFRvb2xzKipdKGh0dHBzOi8vYWkuc29mdHVuaS5iZy9DZXJ0aWZpY2F0ZXMvRGV0YWlscy8yMzA5LzczZGQwODJlKSB8IFNvZnRVbmkgQUkgfAp8IE9jdCAyMDI0IHwgWyoqQUkgQmFzaWNzKipdKGh0dHBzOi8vYWkuc29mdHVuaS5iZy9DZXJ0aWZpY2F0ZXMvRGV0YWlscy8yNjAvMjQzZDEzZGUpIHwgU29mdFVuaSBBSSB8Cgo8L2Rpdj4KCi0tLQoKIyMjIPCfk4ogR2l0SHViIFN0YXRpc3RpY3MKCjxkaXYgYWxpZ249ImNlbnRlciI+ICAKICAKPGltZyB3aWR0aD0iNDklIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy1pbmt5LXR3by00Mi52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1BbEFsZWtzYW5kcm92JnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1naXRodWJfZGFyayZoaWRlX2JvcmRlcj10cnVlJmJnX2NvbG9yPTBkMTExNyIgLz4gIAo8aW1nIHdpZHRoPSI0OSUiIHNyYz0iaHR0cHM6Ly9zdHJlYWstc3RhdHMuZGVtb2xhYi5jb20/dXNlcj1BbEFsZWtzYW5kcm92JnRoZW1lPWdpdGh1Yi1kYXJrLWJsdWUmaGlkZV9ib3JkZXI9dHJ1ZSZiYWNrZ3JvdW5kPTBkMTExNyIgLz4gIAogIAo8YnIvPiAgCiAgCjxpbWcgd2lkdGg9IjQwJSIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMtaW5reS10d28tNDIudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1BbEFsZWtzYW5kcm92JmxheW91dD1jb21wYWN0JnRoZW1lPWdpdGh1Yl9kYXJrJmhpZGVfYm9yZGVyPXRydWUmYmdfY29sb3I9MGQxMTE3IiAvPiAgCiAgCjwvZGl2PiAgCiAgCjxici8+ICAKICAKPGRpdiBhbGlnbj0iY2VudGVyIj4gIAo8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLWFjdGl2aXR5LWdyYXBoLW51LW9jaHJlLnZlcmNlbC5hcHAvZ3JhcGg/dXNlcm5hbWU9QWxBbGVrc2FuZHJvdiZ0aGVtZT1naXRodWItY29tcGFjdCZoaWRlX2JvcmRlcj10cnVlJmJnX2NvbG9yPTBkMTExNyZjb2xvcj01OGE2ZmYmbGluZT0xYTZiM2MmcG9pbnQ9NThhNmZmJmFyZWE9dHJ1ZSZhcmVhX2NvbG9yPTFhNmIzYyIgd2lkdGg9Ijk1JSIvPiAgCjwvZGl2PgoKLS0tCgojIyMg4pqhIFF1aWNrIEZhY3RzCgotIPCfj60gKiozMCB5ZWFycyBvZiBlbmdpbmVlcmluZyBleHBlcmllbmNlKiogaW4gYXV0b21hdGlvbiwgdXRpbGl0aWVzLCBhdXRvbW90aXZlLCBhbmQgbWFudWZhY3R1cmluZwotIPCfkI0gRm9jdXNlZCBvbiAqKlB5dGhvbiwgRGphbmdvLCBQb3N0Z3JlU1FMLCBhbmQgYmFja2VuZCBkZXZlbG9wbWVudCoqCi0g8J+nqiBTdHJvbmcgaW50ZXJlc3QgaW4gKip0ZXN0aW5nLCBtYWludGFpbmFiaWxpdHksIGFuZCBwcm9kdWN0aW9uLXJlYWR5IHN5c3RlbXMqKgotIPCflJAgQ29tZm9ydGFibGUgaW1wbGVtZW50aW5nICoqcGVybWlzc2lvbnMsIHZhbGlkYXRpb24sIGJ1c2luZXNzIHJ1bGVzLCBhbmQgc2VjdXJlIGZsb3dzKioKLSDimpnvuI8gSW50ZXJlc3RlZCBpbiAqKlJFU1QgQVBJcywgYXN5bmMgcHJvY2Vzc2luZywgZGVwbG95bWVudCwgYW5kIHNjYWxhYmxlIGFyY2hpdGVjdHVyZSoqCi0g8J+kliBBY3RpdmVseSB1c2luZyAqKkFJLWFzc2lzdGVkIGRldmVsb3BtZW50KiogdG8gaW1wcm92ZSBwcm9kdWN0aXZpdHkgYW5kIGNvZGUgcXVhbGl0eQotIPCfjpMgQnVpbHQgYSBzdHJvbmcgc29mdHdhcmUgZm91bmRhdGlvbiB0aHJvdWdoIGNvbnNpc3RlbnQgaGFuZHMtb24gbGVhcm5pbmcgYW5kIHByb2plY3Qgd29yawotIPCfk40gQmFzZWQgaW4gKipCdWxnYXJpYSoqIPCfh6fwn4esCgotLS0KCjxkaXYgYWxpZ249ImNlbnRlciI+CgojIyMg8J+SoSAqIkVuZ2luZWVyaW5nIGlzIGFib3V0IHNvbHZpbmcgcHJvYmxlbXMuIFNvZnR3YXJlIGlzIGFib3V0IHNvbHZpbmcgcHJvYmxlbXMgYXQgc2NhbGUuIioKCjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPTA6MGQxMTE3LDUwOjFhNmIzYywxMDA6NThhNmZmJmhlaWdodD0xMjAmc2VjdGlvbj1mb290ZXIiIHdpZHRoPSIxMDAlIi8+Cgo8L2Rpdj4K
+<div align="center">  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=220&section=header&text=Aleksandar%20Aleksandrov&fontSize=42&fontColor=ffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20Developer%20%7C%20Production-Ready%20Web%20Applications&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Python+%7C+Django+%7C+PostgreSQL+%7C+REST+APIs;Engineer+turned+Software+Developer;Clean+Code+%7C+Reliable+Systems+%7C+Real-World+Thinking)](https://git.io/typing-svg)  
+  
+<a href="https://linkedin.com/in/alexaleksandrov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+<a href="https://github.com/AlAleksandrov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>  
+<a href="mailto:algal.bg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
+<a href="https://github.com/AlAleksandrov/lensmaster_pro_3.0"><img src="https://img.shields.io/badge/Featured_Project-LensMaster_Pro-1a6b3c?style=for-the-badge" alt="Featured Project"/></a>  
+  
+<br/>  
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AlAleksandrov&style=for-the-badge&color=1a6b3c&label=PROFILE+VIEWS)  
+  
+</div>  
+  
+---  
+  
+### 👋 About Me  
+  
+I’m a **Python / Django Developer** with a non-standard but powerful background:    
+**30 years of engineering discipline** in automation, industrial systems, and SQL-driven workflows — now applied to modern software development.  
+  
+I build applications with a strong focus on:  
+  
+- clean and maintainable backend code    
+- structured architecture and separation of concerns    
+- role-based permissions and business rules    
+- testing, reliability, and production readiness    
+- practical solutions for real-world use cases    
+  
+My transition into software development is backed not only by study, but by **real project work, engineering maturity, and consistent execution**.  
+  
+---  
+  
+### 💼 Open to Work  
+  
+I’m currently open to:  
+  
+- **Python Developer**  
+- **Django Backend Developer**  
+- **Backend-focused Full-Stack Developer**  
+- **Junior / Mid-level Software Engineer**  
+- **Remote / Contract / Freelance / Bulgaria-based opportunities**  
+  
+📬 Reach me via [LinkedIn](https://linkedin.com/in/alexaleksandrov) or [Email](mailto:algal.bg@gmail.com)  
+  
+---  
+  
+### ✅ What I Bring  
+  
+- **Engineering mindset** — structured thinking, discipline, and responsibility  
+- **Backend focus** — Python, Django, PostgreSQL, ORM, business logic, validation  
+- **Production thinking** — permissions, error handling, async tasks, deployment, maintainability  
+- **AI-augmented workflow** — using modern AI tools to speed up development, refactoring, and testing without compromising code quality  
+- **Fast learning curve** — strong upskilling path with consistent project delivery  
+  
+---  
+  
+### 🚀 Featured Project  
+  
+#### 📷 [LensMaster Pro](https://github.com/AlAleksandrov/lensmaster_pro) -> 📷 [LensMaster Pro 2.0](https://github.com/AlAleksandrov/lensmaster_pro_2.0) -> 📷 [LensMaster Pro 3.0](https://github.com/AlAleksandrov/lensmaster_pro_3.0)  
+  
+A **production-ready Django 6 web application** for photography and videography studios, built with a strong backend focus and real-world business logic.  
+  
+**Highlights:**  
+- 🏗️ Multi-app Django architecture: `accounts`, `bookings`, `productions`, `inventory`, `common`  
+- 🔐 Role-based access control with custom permission mixins  
+- 🔄 Full CRUD workflows with validation and protected write operations  
+- 🗄️ PostgreSQL + environment-based configuration  
+- 🔌 REST API with Django REST Framework  
+- ☁️ Cloudinary media storage for production environments  
+- ⚙️ Async background processing with **Django Q2** and **Celery + Redis**  
+- 🧪 **30+ automated tests** covering models, forms, views, permissions, and key user flows  
+- 🌍 Deployed on **Render** and **Azure**  
+- 📊 Statistics dashboard, favorites system, booking workflows, and inventory management  
+  
+**What this project demonstrates:**  
+- clean Django structure  
+- backend architecture and maintainability  
+- secure permissions and access control  
+- practical async processing  
+- testing mindset  
+- production deployment awareness  
+  
+<br clear="right"/>  
+  
+---  
+  
+### 🛠️ Tech Stack  
+  
+<div align="center">  
+  
+#### Backend & Web  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+  
+#### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+  
+#### Async, Cloud & Workflow  
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
+![WhiteNoise](https://img.shields.io/badge/WhiteNoise-222222?style=for-the-badge)  
+  
+#### AI & Engineering Background  
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
+![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-009999?style=for-the-badge&logo=siemens&logoColor=white)  
+  
+</div>  
+  
+---  
+  
+### 📜 Certifications  
+  
+<div align="center">  
+  
+| 🗓️ Date | 📚 Course | 🏛️ Institution |  
+|:---:|:---|:---:|  
+| Sep 2026 | [**Software Engineering and DevOps**](https://softuni.bg/certificates/details/266625/6a828a2c) | SoftUni |  
+| Jun 2026 | [**JS Front-End**](https://softuni.bg/certificates/details/264662/e0e8b472) | SoftUni |  
+| May 2026 | [**HTML & CSS**](https://softuni.bg/certificates/details/262745/28b76d0f) | SoftUni |  
+| Feb 2026 | [**Django Advanced**](https://softuni.bg/certificates/details/259880/657e561c) | SoftUni |  
+| Jan 2026 | [**Django Basics**](https://softuni.bg/certificates/details/258018/40c64d6c/) | SoftUni |  
+| Oct 2025 | [**Python ORM**](https://softuni.bg/certificates/details/253369/1b7fa2fa) | SoftUni |  
+| Sep 2025 | [**PostgreSQL**](https://softuni.bg/certificates/details/251032/cecb5a8d) | SoftUni |  
+| Jun 2025 | [**Python OOP**](https://softuni.bg/certificates/details/248232/7bb6946b) | SoftUni |  
+| May 2025 | [**Python Advanced**](https://softuni.bg/certificates/details/245281/60687887) | SoftUni |  
+| Jan 2025 | [**Python Fundamentals**](https://softuni.bg/certificates/details/240189/6da43595) | SoftUni |  
+| Oct 2024 | [**Python Basics**](https://softuni.bg/certificates/details/230199/37e69563) | SoftUni |  
+| Feb 2025 | [**AI Adoption**](https://ai.softuni.bg/Certificates/Details/4302/5611f431) | SoftUni AI |  
+| Nov 2024 | [**Prompt Engineering & AI Tools**](https://ai.softuni.bg/Certificates/Details/2309/73dd082e) | SoftUni AI |  
+| Oct 2024 | [**AI Basics**](https://ai.softuni.bg/Certificates/Details/260/243d13de) | SoftUni AI |  
+  
+</div>  
+  
+---  
+  
+### 📊 GitHub Statistics  
+  
+<div align="center">    
+    
+<img width="49%" src="https://github-readme-stats-inky-two-42.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />    
+<img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />    
+    
+<br/>    
+    
+<img width="40%" src="https://github-readme-stats-inky-two-42.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />    
+    
+</div>    
+    
+<br/>    
+    
+<div align="center">    
+<img src="https://github-readme-activity-graph-nu-ochre.vercel.app/graph?username=AlAleksandrov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6b3c&point=58a6ff&area=true&area_color=1a6b3c" width="95%"/>    
+</div>  
+  
+---  
+  
+### ⚡ Quick Facts  
+  
+- 🏭 **30 years of engineering experience** in automation, utilities, automotive, and manufacturing  
+- 🐍 Focused on **Python, Django, PostgreSQL, and backend development**  
+- 🧪 Strong interest in **testing, maintainability, and production-ready systems**  
+- 🔐 Comfortable implementing **permissions, validation, business rules, and secure flows**  
+- ⚙️ Interested in **REST APIs, async processing, deployment, and scalable architecture**  
+- 🤖 Actively using **AI-assisted development** to improve productivity and code quality  
+- 🎓 Built a strong software foundation through consistent hands-on learning and project work  
+- 📍 Based in **Bulgaria** 🇧🇬  
+  
+---  
+  
+<div align="center">  
+  
+### 💡 *"Engineering is about solving problems. Software is about solving problems at scale."*  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:58a6ff&height=120&section=footer" width="100%"/>  
+  
+</div>
