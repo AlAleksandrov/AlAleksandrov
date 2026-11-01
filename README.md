@@ -151,21 +151,21 @@ A **production-ready Django 6 web application** for photography and videography 
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlAleksandrov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6b3c&point=58a6ff&area=true&area_color=1a6b3c" width="95%"/>
+<div align="center">  
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />  
+<img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />  
+  
+<br/>  
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />  
+  
+</div>  
+  
+<br/>  
+  
+<div align="center">  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlAleksandrov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6b3c&point=58a6ff&area=true&area_color=1a6b3c" width="95%"/>  
 </div>
 
 ---
