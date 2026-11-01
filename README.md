@@ -174,12 +174,6 @@ A **production-ready Django 6 web application** for photography and videography 
 <br/>  
   
 <div align="center">  
-<img src="https://raw.githubusercontent.com/AlAleksandrov/AlAleksandrov/output/github-snake-dark.svg" width="95%" alt="Snake animation" />  
-</div>  
-  
-<br/>  
-  
-<div align="center">  
 <img src="https://raw.githubusercontent.com/AlAleksandrov/AlAleksandrov/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution calendar" />  
 </div>
 
