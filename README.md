@@ -159,9 +159,6 @@ A **production-ready Django 6 web application** for photography and videography 
 <br/>  
   
 <img width="40%" src="https://github-readme-stats-inky-two-42.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />  
-<a href="https://github.com/AlAleksandrov/lensmaster_pro_3.0">  
-  <img width="49%" src="https://github-readme-stats-inky-two-42.vercel.app/api/pin/?username=AlAleksandrov&repo=lensmaster_pro_3.0&theme=github_dark&hide_border=true&bg_color=0d1117" />  
-</a>  
   
 </div>  
   
