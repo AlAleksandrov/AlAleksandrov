@@ -155,21 +155,36 @@ A **production-ready Django 6 web application** for photography and videography 
 
 ### 📊 GitHub Statistics
 
-<div align="center">    
-    
-<img width="49%" src="https://github-readme-stats-inky-two-42.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />    
-<img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />    
-    
-<br/>    
-    
-<img width="40%" src="https://github-readme-stats-inky-two-42.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />    
-    
-</div>    
-    
-<br/>    
-    
-<div align="center">    
-<img src="https://github-readme-activity-graph-nu-ochre.vercel.app/graph?username=AlAleksandrov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6b3c&point=58a6ff&area=true&area_color=1a6b3c" width="95%"/>    
+<div align="center">  
+  
+<img width="49%" src="https://github-readme-stats-inky-two-42.vercel.app/api?username=AlAleksandrov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />  
+<img width="49%" src="https://streak-stats.demolab.com?user=AlAleksandrov&theme=github-dark-blue&hide_border=true&background=0d1117" />  
+  
+<br/>  
+  
+<img width="40%" src="https://github-readme-stats-inky-two-42.vercel.app/api/top-langs/?username=AlAleksandrov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />  
+<a href="https://github.com/AlAleksandrov/lensmaster_pro_3.0">  
+  <img width="49%" src="https://github-readme-stats-inky-two-42.vercel.app/api/pin/?username=AlAleksandrov&repo=lensmaster_pro_3.0&theme=github_dark&hide_border=true&bg_color=0d1117" />  
+</a>  
+  
+</div>  
+  
+<br/>  
+  
+<div align="center">  
+<img src="https://github-readme-activity-graph-nu-ochre.vercel.app/graph?username=AlAleksandrov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6b3c&point=58a6ff&area=true&area_color=1a6b3c" width="95%"/>  
+</div>  
+  
+<br/>  
+  
+<div align="center">  
+<img src="https://raw.githubusercontent.com/AlAleksandrov/AlAleksandrov/output/github-snake-dark.svg" width="95%" alt="Snake animation" />  
+</div>  
+  
+<br/>  
+  
+<div align="center">  
+<img src="https://raw.githubusercontent.com/AlAleksandrov/AlAleksandrov/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution calendar" />  
 </div>
 
 ---
